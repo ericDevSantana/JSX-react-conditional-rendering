@@ -1,7 +1,7 @@
 # JSX-React Conditional Rendering
 Created with CodeSandbox
 
-## Condition TRUE
+## userIsRegistered = TRUE
 ```javascript
 
 var userIsRegistered = true;
@@ -17,7 +17,7 @@ function App() {
 ![alt-text](https://github.com/ericDevSantana/JSX-react-conditional-rendering/blob/master/login.png)
 
 
-## Condition FALSE
+## userIsRegistered = FALSE
 ```javascript
 
 var userIsRegistered = false;
